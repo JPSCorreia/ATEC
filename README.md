@@ -1,6 +1,4 @@
- ![ATEC Logo.](https://github.com/JPSCorreia/ATEC/blob/main/atec_LOGOTIPO.webp)
-
-
+<img label='ATEC Logo' src="https://github.com/JPSCorreia/ATEC/blob/main/atec_LOGOTIPO.webp" width='200px' />
 
 **Repositórios dos modulos:**
 
