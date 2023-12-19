@@ -16,6 +16,6 @@
   - [5437 - Noções de Economia de Empresa](https://github.com/JPSCorreia/5437-Nocoes-de-Economia-de-Empresa).
  
 **Cheat Sheets:**
-- [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [Git]()
-- [Markdown]()
+- [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
+- [Git](https://github.com/JPSCorreia/ATEC/blob/main/Material%20Adicional/Git-Cheat-Sheet.pdf).
+- [Markdown](https://github.com/JPSCorreia/ATEC/blob/main/Material%20Adicional/markdown-cheatsheet.pdf).
