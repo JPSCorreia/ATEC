@@ -5,6 +5,7 @@
   - [0804 - Algoritmos](https://github.com/JPSCorreia/0804-Algoritmos).
   - [0978 - Fundamentos de Python(Originalmente para ser Java)](0978-Fundamentos-de-Python).
   - [9963 - Web](https://github.com/JPSCorreia/9963-Web).
+  - [0789 - Programação e Bases de Dados](https://github.com/JPSCorreia/0789-Programacao-e-bases-de-dados).
 
 - Redes, Sistemas Operativos e Segurança
   - [0825 - Tipologias de Redes](https://github.com/JPSCorreia/0825-Tipologias-de-Redes).
