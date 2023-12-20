@@ -1,7 +1,7 @@
 
-<img label='ATEC Logo' src="https://github.com/JPSCorreia/ATEC/blob/main/atec_LOGOTIPO.webp" width='200px' />
+<img label='ATEC Logo' src="https://github.com/JPSCorreia/ATEC/blob/main/atec_LOGOTIPO.webp" width='275px' />
 
-**Repositórios dos modulos:**
+## Repositórios dos modulos:
 
 - Programação e Base de Dados
   - [0804 - Algoritmos](https://github.com/JPSCorreia/0804-Algoritmos)
@@ -17,7 +17,7 @@
 - Mundo Actual
   - [5437 - Noções de Economia de Empresa](https://github.com/JPSCorreia/5437-Nocoes-de-Economia-de-Empresa)
 
-**Cheat Sheets:**
+## Cheat Sheets:
 
 - [CLI](https://github.com/JPSCorreia/ATEC/blob/main/Material%20Adicional/CLI-Cheat-Sheet.pdf)
 - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
